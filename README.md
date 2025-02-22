@@ -3,9 +3,6 @@
 This is my portfolio website, designed to showcase my skills, projects, and experience as a web developer. Using a combination of HTML, CSS, and JavaScript, I've created an engaging and visually appealing website that reflects my abilities in front-end web development.
 
 # Key Features & Highlights:
-
-#Responsive Design:
-
 The website is built to be fully responsive, ensuring that it works seamlessly across various devices such as desktops, tablets, and mobile phones. Using CSS media queries, I’ve optimized the layout to adjust dynamically to different screen sizes, offering an excellent user experience regardless of the device being used.
 Interactive User Interface:
 
@@ -43,6 +40,7 @@ This portfolio website serves as a professional showcase of my web development s
 
 The website is an ongoing project, and I am constantly updating it to reflect new skills, projects, and achievements as I continue my journey as a web developer.
 
-# Conclusion: This portfolio website is a culmination of my web development skills, demonstrating my proficiency in HTML, CSS, and JavaScript. It highlights my ability to design and develop functional, responsive, and visually appealing websites while ensuring a seamless user experience across all devices. It serves both as a personal showcase and as a proof of my capability to build modern, interactive web applications.
+# Conclusion: 
+This portfolio website is a culmination of my web development skills, demonstrating my proficiency in HTML, CSS, and JavaScript. It highlights my ability to design and develop functional, responsive, and visually appealing websites while ensuring a seamless user experience across all devices. It serves both as a personal showcase and as a proof of my capability to build modern, interactive web applications.
 
 ## Thank You 
