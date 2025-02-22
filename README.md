@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my personal portfolio website, designed to showcase my skills, projects, and experience as a web developer. Using a combination of HTML, CSS, and JavaScript, I've created an engaging and visually appealing website that reflects my abilities in front-end web development.
+This is my portfolio website, designed to showcase my skills, projects, and experience as a web developer. Using a combination of HTML, CSS, and JavaScript, I've created an engaging and visually appealing website that reflects my abilities in front-end web development.
 
 # Key Features & Highlights:
 
